@@ -5,7 +5,7 @@ class jay
      public static void main(String [] args) {
         System.out.println("jay java");
 
-        k=11;
+        k=10;
         
         
     }
